@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HyunSoo's%20GitHub&fontSize=70&fontAlignY=40)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 My Tech STACKS 📚</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
