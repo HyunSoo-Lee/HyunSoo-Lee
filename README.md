@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HyunSoo's%20GitHub&fontSize=70&fontAlignY=40)
 <!--<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">-->
+<!--https://simpleicons.org/-->
 <div align=center><h1>📚 My Tech STACKS 📚</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
